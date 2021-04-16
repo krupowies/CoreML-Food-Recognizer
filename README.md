@@ -1,9 +1,14 @@
 # Fruits and vegetables Recognizer
-Small mobile app which can recognize over 10 fruits and vegetables basen on the image from your gallery or camera. 
-Used Create ML and Core ML tools to create my own model.
+Small mobile application that recognises more than 10 selected fruits and vegetables based on a photo from library or camera. I trained my own model with CreateML and then used it thanks to CoreML.
 
-## Choose your image.
-![B93629EE-161E-4306-B6EF-F9F31302DAE0](https://user-images.githubusercontent.com/32643150/82726085-1f4e7980-9ce2-11ea-9e46-1a838e6759f6.png)
+## Screenshots 
 
-## And check the result.
-![CAE6BE22-0605-4D2F-8B29-C6BFF4FD7995](https://user-images.githubusercontent.com/32643150/82726118-5c1a7080-9ce2-11ea-8ef8-65e0274e3665.png)
+### Firstly choose the image source 
+![selectScreen](/Readme/selectScreen.png)
+
+
+### Then select the image from gallery or take a photo with the camera
+![galleryView](/Readme/galleryView.png) &nbsp;&nbsp;&nbsp;&nbsp; ![galleryView](/Readme/galleryView.png)
+
+### Finally check the result 
+![avocadoResult](/Readme/avocadoResult.png) &nbsp;&nbsp;&nbsp;&nbsp; ![bananaResult](/Readme/bananaResult.png)
